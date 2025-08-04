@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#44a8c2;">Hi there, I'm Muhammad 👋</h1>
+<h1 align="center" style="color:#44a8c2;">Hi there, I'm Muhammad Ali 👋</h1>
 
 
 
