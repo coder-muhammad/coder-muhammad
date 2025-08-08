@@ -1,87 +1,67 @@
 <h1 align="center" style="color:#44a8c2;">Hi there, I'm Muhammad Ali 👋</h1>
 
-
-
 <p align="center">
-
-  <b>Student | Aspiring MERN Stack & Agentic AI Engineer</b>
-
+  <b>Student | Aspiring MERN Stack & Agentic AI Engineer</b>
 </p>
 
-
-
 ---
-
-
 
 ## 🎓 About Me
 
-
-
-- 🏫 **BS Computer Science** (2022-2026), University of Agriculture
-
+- 🏫 **Currently pursuing BS in Computer Science** (2022-2026) at the University of Agriculture.
 - 🌱 **Currently learning**:
-
-  - **MERN Stack** at SMIT Peshawar (since Nov 2024)
-
-  - **Python (Agentic AI)** at PIAIC Peshawar (since Apr 2025)
-
-- 💡 **Goals**: To become a skilled MERN Stack and Agentic AI Engineer
-
-- 💻 **Tech Stack**: HTML, CSS, JavaScript, Python (learned); MERN & Agentic AI (in progress)
-
-- 🏸 **Hobbies**: Coding, playing badminton
-
-
+  - **MERN Stack** at SMIT Peshawar (since Nov 2024)
+  - **Python for Agentic AI** at PIAIC Peshawar (since Apr 2025)
+- 💡 **Goals**: To become a proficient **MERN Stack Developer** and a cutting-edge **Agentic AI Engineer**.
+- 💻 **Tech Stack**: 
+  - Frontend: HTML, CSS, JavaScript (proficient)
+  - Backend: Node.js, Express, MongoDB, React (currently learning)
+  - Programming: Python (AI and ML)
+- 🎮 **Hobbies**: Coding, playing badminton, exploring new technologies.
 
 ---
 
+## 🛠️ Technical Skills
 
-
-## 🛠️ Skills
-
-
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat&logo=python&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" />
+</p>
 
 ---
 
 ## 🚀 Projects
 
-> _I’m actively building my portfolio. Here are some of my minor projects:_
+I am actively building and improving my portfolio. Below are some of my recent projects:
 
-- Explore all my projects in the [Repositories](https://github.com/coder-muhammad?tab=repositories) tab!
+- Explore all my projects in my [GitHub Repositories](https://github.com/coder-muhammad?tab=repositories).
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=coder-muhammad&show_icons=true&theme=tokyonight" alt="Muhammad Ali's GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-muhammad&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+</p>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=coder-muhammad&show_icons=true&theme=tokyonight" alt="coder-muhammad's GitHub stats" height="160"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-muhammad&layout=compact&theme=tokyonight" alt="Top Langs" height="160"/>
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=coder-muhammad&theme=tokyonight&row=1&column=4" alt="GitHub Trophy" height="160"/>
 </p>
 
 ---
 
-## 🗂️ More
 
-- 📫 _Let’s connect!_ [Muhammad Ali](https://www.linkedin.com/in/muhammad-ali-42213432b/)
+## 📫 Let’s Connect!
 
-- 📝 _Always open to collaborations and learning new things!_
+- 📝 **Open to collaborations** and always looking for learning opportunities. 
+- 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/muhammad-ali-42213432b/)
+- 💬 Feel free to reach out for any inquiries or collaboration ideas!
 
 ---
 
 <p align="center" style="color:#44a8c2;">
-
-  <b>“Striving to innovate with code and shape the future with AI.”</b>
-
+  <b>“Innovating with code and shaping the future with AI.”</b>
 </p>
