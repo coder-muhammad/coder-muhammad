@@ -36,19 +36,19 @@
 
 I am actively building and improving my portfolio. Below are some of my recent projects:
 
-- Explore all my projects in my [GitHub Repositories](https://github.com/coder-muhammad?tab=repositories).
+- Explore all my projects in my [GitHub Repositories](https://github.com/m0hammad-ali?tab=repositories).
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coder-muhammad&show_icons=true&theme=tokyonight" alt="Muhammad Ali's GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-muhammad&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=m0hammad-ali&show_icons=true&theme=tokyonight" alt="Muhammad Ali's GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0hammad-ali&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=coder-muhammad&theme=tokyonight&row=1&column=4" alt="GitHub Trophy" height="160"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=m0hammad-ali&theme=tokyonight&row=1&column=4" alt="GitHub Trophy" height="160"/>
 </p>
 
 ---
@@ -64,4 +64,7 @@ I am actively building and improving my portfolio. Below are some of my recent p
 
 <p align="center" style="color:#44a8c2;">
   <b>“Innovating with code and shaping the future with AI.”</b>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=m0hammad-ali&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views" />
 </p>
